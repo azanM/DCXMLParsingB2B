@@ -1,0 +1,53 @@
+D:\console_Test\Fix Parsing\ParsingPurchaseOrder\ParsingPurchaseOrder\bin\Debug\ParsingPurchaseOrder.exe.config
+D:\console_Test\Fix Parsing\ParsingPurchaseOrder\ParsingPurchaseOrder\bin\Debug\ParsingPurchaseOrder.exe
+D:\console_Test\Fix Parsing\ParsingPurchaseOrder\ParsingPurchaseOrder\bin\Debug\ParsingPurchaseOrder.pdb
+D:\console_Test\Fix Parsing\ParsingPurchaseOrder\ParsingPurchaseOrder\obj\Debug\ParsingPurchaseOrder.Properties.Resources.resources
+D:\console_Test\Fix Parsing\ParsingPurchaseOrder\ParsingPurchaseOrder\obj\Debug\ParsingPurchaseOrder.csproj.GenerateResource.Cache
+D:\console_Test\Fix Parsing\ParsingPurchaseOrder\ParsingPurchaseOrder\obj\Debug\ParsingPurchaseOrder.exe
+D:\console_Test\Fix Parsing\ParsingPurchaseOrder\ParsingPurchaseOrder\obj\Debug\ParsingPurchaseOrder.pdb
+D:\console_Test\Fix Parsing\ParsingPurchaseOrder\ParsingPurchaseOrder\obj\Debug\ParsingPurchaseOrder.csprojResolveAssemblyReference.cache
+H:\KANTOR\TFS SERA DEVELOPMENT\DC Parsing XML PO\ParsingPurchaseOrder\bin\Debug\ParsingPurchaseOrder.exe.config
+H:\KANTOR\TFS SERA DEVELOPMENT\DC Parsing XML PO\ParsingPurchaseOrder\bin\Debug\ParsingPurchaseOrder.exe
+H:\KANTOR\TFS SERA DEVELOPMENT\DC Parsing XML PO\ParsingPurchaseOrder\bin\Debug\ParsingPurchaseOrder.pdb
+H:\KANTOR\TFS SERA DEVELOPMENT\DC Parsing XML PO\ParsingPurchaseOrder\obj\Debug\ParsingPurchaseOrder.csprojResolveAssemblyReference.cache
+H:\KANTOR\TFS SERA DEVELOPMENT\DC Parsing XML PO\ParsingPurchaseOrder\obj\Debug\ParsingPurchaseOrder.ParsingPO.resources
+H:\KANTOR\TFS SERA DEVELOPMENT\DC Parsing XML PO\ParsingPurchaseOrder\obj\Debug\ParsingPurchaseOrder.Properties.Resources.resources
+H:\KANTOR\TFS SERA DEVELOPMENT\DC Parsing XML PO\ParsingPurchaseOrder\obj\Debug\ParsingPurchaseOrder.csproj.GenerateResource.Cache
+H:\KANTOR\TFS SERA DEVELOPMENT\DC Parsing XML PO\ParsingPurchaseOrder\obj\Debug\ParsingPurchaseOrder.exe
+H:\KANTOR\TFS SERA DEVELOPMENT\DC Parsing XML PO\ParsingPurchaseOrder\obj\Debug\ParsingPurchaseOrder.pdb
+E:\Project SERA\DC\DC Parsing XML PO\ParsingPurchaseOrder\bin\Debug\ParsingPurchaseOrder.exe.config
+E:\Project SERA\DC\DC Parsing XML PO\ParsingPurchaseOrder\bin\Debug\ParsingPurchaseOrder.exe
+E:\Project SERA\DC\DC Parsing XML PO\ParsingPurchaseOrder\bin\Debug\ParsingPurchaseOrder.pdb
+E:\Project SERA\DC\DC Parsing XML PO\ParsingPurchaseOrder\obj\Debug\ParsingPurchaseOrder.csprojResolveAssemblyReference.cache
+E:\Project SERA\DC\DC Parsing XML PO\ParsingPurchaseOrder\obj\Debug\ParsingPurchaseOrder.ParsingPO.resources
+E:\Project SERA\DC\DC Parsing XML PO\ParsingPurchaseOrder\obj\Debug\ParsingPurchaseOrder.Properties.Resources.resources
+E:\Project SERA\DC\DC Parsing XML PO\ParsingPurchaseOrder\obj\Debug\ParsingPurchaseOrder.csproj.GenerateResource.Cache
+E:\Project SERA\DC\DC Parsing XML PO\ParsingPurchaseOrder\obj\Debug\ParsingPurchaseOrder.exe
+E:\Project SERA\DC\DC Parsing XML PO\ParsingPurchaseOrder\obj\Debug\ParsingPurchaseOrder.pdb
+I:\DC exe\DC Parsing XML PO\ParsingPurchaseOrder\bin\Debug\ParsingPurchaseOrder.exe.config
+I:\DC exe\DC Parsing XML PO\ParsingPurchaseOrder\bin\Debug\ParsingPurchaseOrder.exe
+I:\DC exe\DC Parsing XML PO\ParsingPurchaseOrder\bin\Debug\ParsingPurchaseOrder.pdb
+I:\DC exe\DC Parsing XML PO\ParsingPurchaseOrder\obj\Debug\ParsingPurchaseOrder.csprojResolveAssemblyReference.cache
+I:\DC exe\DC Parsing XML PO\ParsingPurchaseOrder\obj\Debug\ParsingPurchaseOrder.ParsingPO.resources
+I:\DC exe\DC Parsing XML PO\ParsingPurchaseOrder\obj\Debug\ParsingPurchaseOrder.Properties.Resources.resources
+I:\DC exe\DC Parsing XML PO\ParsingPurchaseOrder\obj\Debug\ParsingPurchaseOrder.csproj.GenerateResource.Cache
+I:\DC exe\DC Parsing XML PO\ParsingPurchaseOrder\obj\Debug\ParsingPurchaseOrder.csproj.CoreCompileInputs.cache
+I:\DC exe\DC Parsing XML PO\ParsingPurchaseOrder\obj\Debug\ParsingPurchaseOrder.exe
+I:\DC exe\DC Parsing XML PO\ParsingPurchaseOrder\obj\Debug\ParsingPurchaseOrder.pdb
+D:\JULI2018\DC exe\DC Parsing XML PO\ParsingPurchaseOrder\bin\Debug\ParsingPurchaseOrder.exe.config
+D:\JULI2018\DC exe\DC Parsing XML PO\ParsingPurchaseOrder\obj\Debug\ParsingPurchaseOrder.exe
+D:\JULI2018\DC exe\DC Parsing XML PO\ParsingPurchaseOrder\obj\Debug\ParsingPurchaseOrder.pdb
+D:\JULI2018\DC exe\DC Parsing XML PO\ParsingPurchaseOrder\bin\Debug\ParsingPurchaseOrder.exe
+D:\JULI2018\DC exe\DC Parsing XML PO\ParsingPurchaseOrder\bin\Debug\ParsingPurchaseOrder.pdb
+D:\JULI2018\DC exe\DC Parsing XML PO\ParsingPurchaseOrder\obj\Debug\ParsingPurchaseOrder.ParsingPO.resources
+D:\JULI2018\DC exe\DC Parsing XML PO\ParsingPurchaseOrder\obj\Debug\ParsingPurchaseOrder.Properties.Resources.resources
+D:\JULI2018\DC exe\DC Parsing XML PO\ParsingPurchaseOrder\obj\Debug\ParsingPurchaseOrder.csproj.GenerateResource.Cache
+D:\JULI2018\DC exe\DC Parsing XML PO\ParsingPurchaseOrder\obj\Debug\ParsingPurchaseOrder.csprojResolveAssemblyReference.cache
+D:\JULI2018\DC Exe Last Version\DC Parsing XML PO\ParsingPurchaseOrder\bin\Debug\ParsingPurchaseOrder.exe.config
+D:\JULI2018\DC Exe Last Version\DC Parsing XML PO\ParsingPurchaseOrder\obj\Debug\ParsingPurchaseOrder.exe
+D:\JULI2018\DC Exe Last Version\DC Parsing XML PO\ParsingPurchaseOrder\obj\Debug\ParsingPurchaseOrder.pdb
+D:\JULI2018\DC Exe Last Version\DC Parsing XML PO\ParsingPurchaseOrder\bin\Debug\ParsingPurchaseOrder.exe
+D:\JULI2018\DC Exe Last Version\DC Parsing XML PO\ParsingPurchaseOrder\bin\Debug\ParsingPurchaseOrder.pdb
+D:\JULI2018\DC Exe Last Version\DC Parsing XML PO\ParsingPurchaseOrder\obj\Debug\ParsingPurchaseOrder.ParsingPO.resources
+D:\JULI2018\DC Exe Last Version\DC Parsing XML PO\ParsingPurchaseOrder\obj\Debug\ParsingPurchaseOrder.Properties.Resources.resources
+D:\JULI2018\DC Exe Last Version\DC Parsing XML PO\ParsingPurchaseOrder\obj\Debug\ParsingPurchaseOrder.csproj.GenerateResource.Cache

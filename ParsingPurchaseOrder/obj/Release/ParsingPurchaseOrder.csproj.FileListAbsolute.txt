@@ -1,0 +1,8 @@
+D:\JULI2018\DC Exe Last Version\DC Parsing XML PO\ParsingPurchaseOrder\bin\Release\ParsingPurchaseOrder.exe.config
+D:\JULI2018\DC Exe Last Version\DC Parsing XML PO\ParsingPurchaseOrder\bin\Release\ParsingPurchaseOrder.exe
+D:\JULI2018\DC Exe Last Version\DC Parsing XML PO\ParsingPurchaseOrder\bin\Release\ParsingPurchaseOrder.pdb
+D:\JULI2018\DC Exe Last Version\DC Parsing XML PO\ParsingPurchaseOrder\obj\Release\ParsingPurchaseOrder.ParsingPO.resources
+D:\JULI2018\DC Exe Last Version\DC Parsing XML PO\ParsingPurchaseOrder\obj\Release\ParsingPurchaseOrder.Properties.Resources.resources
+D:\JULI2018\DC Exe Last Version\DC Parsing XML PO\ParsingPurchaseOrder\obj\Release\ParsingPurchaseOrder.csproj.GenerateResource.Cache
+D:\JULI2018\DC Exe Last Version\DC Parsing XML PO\ParsingPurchaseOrder\obj\Release\ParsingPurchaseOrder.exe
+D:\JULI2018\DC Exe Last Version\DC Parsing XML PO\ParsingPurchaseOrder\obj\Release\ParsingPurchaseOrder.pdb
