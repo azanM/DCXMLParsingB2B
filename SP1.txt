@@ -1,4 +1,6 @@
 store procedure testing
 
 
-store procedure sampah
+store procedure 1
+
+store procedure 2
