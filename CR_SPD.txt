@@ -1,0 +1,52 @@
+
+1.	Pembuatan sinkronisasi antara system E-SPD dengan Budget Actual, 
+	sehingga jika karyawan dari BU atau department yang ada di HO ingin melakukan perdin dan budget tidak tersedia, 
+	maka pada saat karyawan melakukan create E-SPD tidak dapat di SAVE.
+
+	-     Saat disave akan tampil warning :”Budget tidak tersedia”
+	-     Saat PIC Budget melakukan approval jika budget tidak tersedia maka akan keluar warning :
+	      ”Budget tidak tersedia”, dan status SPD tetap masih Menunggu approval PIC Budget.
+
+2.	Mengaktifkan kembali fitur upload dan download pada claim
+
+3.	Menambahkan button revisi dan history pada List GA di form Home
+
+4.	Menambahkan 4 field tunjangan kejauhan
+
+5.	Menambakan pilihan direktur SBU dan presiden direktur SBU
+
+	-     Direksi displit menjadi 2 : Direksi SBU dan Direksi SERA
+
+	-     Presdir displit menjadi 2 : Presiden Director SBU dan Presiden Director SERA
+
+	-     Penamaan pada approval disesuaikan. 
+
+	Jika dipilih Direksi SBU Approval
+
+	- Presiden Director SBU
+
+	- Finance Director SBU
+
+	- DIC SBU
+
+	LN :  - Presiden Director SERA
+
+	Jika dipilih Presiden Director SBU Approval: 
+	
+	- DIC SBU
+
+	- Finance Director SBU
+
+	LN :  - Presiden Director SERA
+
+
+user testing
+
+-untuk create claim: taufiq006506
+
+-untuk download attachment : nomor spd: SPD/2018/8/00520
+
+-
+
+https://www.aspsnippets.com/Articles/Dynamically-generate-and-display-QR-code-Image-in-ASPNet.aspx
+https://www.aspsnippets.com/Articles/ASPNet-MVC-Dynamically-generate-and-display-QR-Code-Image.aspx
